@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>纸小墨官方博客</title>
+  <id>http://www.chole.io/blog</id>
+  <updated>2017-04-09T22:52:49+08:00</updated>
+  <subtitle>构建只为纯粹书写的博客</subtitle>
+  <link href="http://www.chole.io/blog"></link>
+  <author>
+    <name>纸小墨官方博客</name>
+  </author>
+  <entry>
+    <title>centos7防火墙配置</title>
+    <updated>2017-04-09T14:23:00+08:00</updated>
+    <id>tag:www.chole.io,2017-04-09:/blog/centos7防火墙配置.html</id>
+    <content type="html">&lt;p&gt;CentOS7使用的是Linux Kernel 3.10.0的内核版本，新版的Kernel内核已经有了防火墙netfilter，并且firewalld的使用效能更高，稳定性更好。&lt;/p&gt;&#xA;</content>
+    <link href="http://www.chole.io/blog/centos7防火墙配置.html"></link>
+    <author>
+      <name>纸小墨</name>
+    </author>
+  </entry>
+  <entry>
+    <title>增强VPS 安全:改端口,禁用Root,密钥登录,Denyhosts防暴力攻击</title>
+    <updated>2017-04-09T13:03:00+08:00</updated>
+    <id>tag:www.chole.io,2017-04-09:/blog/增强vps 安全.html</id>
+    <content type="html">&lt;p&gt;VPS 账号是我们日常管理VPS的主要登入方式，尤其是Root账号，对Linux系统安全至关重要。以前好多站长喜欢用Putty中文版，这实际是别人修改官方Putty汉化而来，这些软件被植入了后门，导致好几个有名的站点信息泄露，损失惨重。&lt;/p&gt;&#xA;</content>
+    <link href="http://www.chole.io/blog/增强vps 安全.html"></link>
+    <author>
+      <name>纸小墨</name>
+    </author>
+  </entry>
+  <entry>
+    <title>简洁的静态博客构建工具 —— 纸小墨（InkPaper）</title>
+    <updated>2016-07-11T17:00:00+08:00</updated>
+    <id>tag:www.chole.io,2016-07-11:/blog/ink-blog-tool.html</id>
+    <content type="html">&lt;p&gt;纸小墨（InkPaper）是一个GO语言编写的开源静态博客构建工具，可以快速搭建博客网站。它无依赖跨平台，配置简单构建快速，注重简洁易用与更优雅的排版。&lt;/p&gt;&#xA;</content>
+    <link href="http://www.chole.io/blog/ink-blog-tool.html"></link>
+    <author>
+      <name>纸小墨</name>
+    </author>
+  </entry>
+</feed>
